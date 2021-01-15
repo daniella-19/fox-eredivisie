@@ -1,0 +1,54 @@
+#EXTM3U
+#PLAYLIST:hlscat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",(GE) 1 TV
+http://tv.cdn.xsg.ge/gpb-1tv/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport",FOX SPORTS 1 EREDIVISIE FHD
+http://tvog.eu:8080/ibrahim/08.03.2020/122927?checkedby:hlscat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport",FOX SPORTS 1 EREDIVISIE HD
+http://tvog.eu:8080/ibrahim/08.03.2020/122938?checkedby:hlscat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport",FOX SPORTS 1 FHD
+http://tvog.eu:8080/ibrahim/08.03.2020/122928?checkedby:hlscat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport",FOX SPORTS 1 HD
+http://tvog.eu:8080/ibrahim/08.03.2020/122939?checkedby:hlscat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport",FOX SPORTS 1 HD Eredivisie
+http://tvog.eu:8080/ibrahim/08.03.2020/122940?checkedby:hlscat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport",FOX SPORTS 2 Eredivisie HD
+http://tvog.eu:8080/ibrahim/08.03.2020/122941?checkedby:hlscat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport",FOX SPORTS 2 FHD
+http://tvog.eu:8080/ibrahim/08.03.2020/122929?checkedby:hlscat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport",FOX SPORTS 2 HD
+http://tvog.eu:8080/ibrahim/08.03.2020/122942?checkedby:hlscat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport",FOX SPORTS 3 EREDIVISIE FHD
+http://tvog.eu:8080/ibrahim/08.03.2020/122930?checkedby:hlscat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport",FOX SPORTS 3 EREDIVISIE HD
+http://tvog.eu:8080/ibrahim/08.03.2020/122943?checkedby:hlscat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport",FOX SPORTS 3 FHD
+http://tvog.eu:8080/ibrahim/08.03.2020/122931?checkedby:hlscat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport",FOX SPORTS 3 HD
+http://tvog.eu:8080/ibrahim/08.03.2020/122944?checkedby:hlscat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport",FOX SPORTS 4 Eredivisie
+http://tvog.eu:8080/ibrahim/08.03.2020/122945?checkedby:hlscat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport",FOX SPORTS 4 FHD
+http://tvog.eu:8080/ibrahim/08.03.2020/122932?checkedby:hlscat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport",FOX SPORTS 4 HD
+http://tvog.eu:8080/ibrahim/08.03.2020/122946?checkedby:hlscat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport",FOX SPORTS 4 INTERNATIONAL FHD
+http://tvog.eu:8080/ibrahim/08.03.2020/122933?checkedby:hlscat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport",FOX SPORTS 4 INTERNATIONAL HD
+http://tvog.eu:8080/ibrahim/08.03.2020/122947?checkedby:hlscat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport",FOX SPORTS 5 EREDIVISIE FHD
+http://tvog.eu:8080/ibrahim/08.03.2020/122934?checkedby:hlscat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport",FOX SPORTS 5 Eredivisie HD
+http://tvog.eu:8080/ibrahim/08.03.2020/122948?checkedby:hlscat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport",FOX SPORTS 5 FHD
+http://tvog.eu:8080/ibrahim/08.03.2020/122935?checkedby:hlscat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport",FOX SPORTS 5 HD
+http://tvog.eu:8080/ibrahim/08.03.2020/122949?checkedby:hlscat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport",FOX SPORTS 6 FHD
+http://tvog.eu:8080/ibrahim/08.03.2020/122936?checkedby:hlscat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport",FOX SPORTS 6 HD
+http://tvog.eu:8080/ibrahim/08.03.2020/122950?checkedby:hlscat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport",FOX SPORTS 6 INTERNATIONAL FHD
+http://tvog.eu:8080/ibrahim/08.03.2020/122937?checkedby:hlscat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport",FOX SPORTS 6 INTERNATIONAL HD
+http://tvog.eu:8080/ibrahim/08.03.2020/122951?checkedby:hlscat.com
